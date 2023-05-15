@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  14 MAY 2023 14:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  15 MAY 2023 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1410,36 +1410,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
  []
 
 
-Underfull \vbox (badness 1454) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
 (./tables/a1table.tex
-LaTeX Font Info:    Trying to load font information for OMS+txr on input line 9
-.
-
-(/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/tex/latex/txfonts/omstx
-r.fd
-File: omstxr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <9> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 9.
-)
-Overfull \hbox (46.57545pt too wide) in paragraph at lines 6--317
-[][]
+Overfull \hbox (20.25519pt too wide) in paragraph at lines 6--15
+[][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--317
-
- []
-
-[1{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/map/pdftex/updm
-ap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/enc
-/dvips/base/8r.enc}
+) [1{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/map/pdftex/up
+dmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/e
+nc/dvips/base/8r.enc}
 
 
 ] (./A1_CS22BTECH11020.aux)
@@ -1447,10 +1429,10 @@ Package rerunfilecheck Info: File `A1_CS22BTECH11020.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29957 strings out of 476025
- 602580 string characters out of 5780034
- 1884388 words of memory out of 5000000
- 49759 multiletter control sequences out of 15000+600000
+ 29938 strings out of 476025
+ 602206 string characters out of 5780034
+ 1888388 words of memory out of 5000000
+ 49740 multiletter control sequences out of 15000+600000
  579668 words of font info for 171 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  101i,17n,96p,1185b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1464,10 +1446,10 @@ xlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew
 pt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on A1_CS22BTECH11020.pdf (1 page, 54830 bytes).
+Output written on A1_CS22BTECH11020.pdf (1 page, 55766 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 74 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

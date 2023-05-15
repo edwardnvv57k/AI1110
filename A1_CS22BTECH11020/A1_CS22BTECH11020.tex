@@ -298,9 +298,12 @@ Here, $p = \pr{\text{Not Cleared}} = \frac{1}{6}$ and $n = 10$. So, we can write
     X & \sim Bin \left(10, \frac{1}{6}\right) \\
     \pr{X=r} &= \comb{10}{r} \left(\frac{1}{6}\right)^{r}\left(\frac{5}{6}\right)^{10-r}
 \end{align}
-The probability that the player knocks down less than two hurdles can be written as
+The probability that the player knocks down less than two hurdles can be written as the following cumulative distribution function 
 \begin{align}
-    \pr{X < 2} &= \pr{X = 0} + \pr{X = 1} \\
+    \pr{X < 2} &= \pr{X <= 1} \\
+               &= F_X(1) \\
+               &= \sum_{i = 0}^{1} \pr{X = i}\\
+               &= \sum_{i = 0}^{1} \comb{10}{i} \left(\frac{1}{6}\right)^{i}\left(\frac{5}{6}\right)^{10-i}\\
                &= \comb{10}{0} \left(\frac{1}{6}\right)^{0}\left(\frac{5}{6}\right)^{10} + \comb{10}{1} \left(\frac{1}{6}\right)^{1}\left(\frac{5}{6}\right)^{9} \\
                &= 1\cdot1\cdot\left(\frac{5}{6}\right)^{10} + 10\cdot\left(\frac{1}{6}\right)^{1}\cdot\left(\frac{5}{6}\right)^{9} \\
                &= \left(\frac{5}{6}\right)^{10} + 10\cdot\left(\frac{1}{6}\right)^{1}\cdot\left(\frac{5}{6}\right)^{9} \\
@@ -327,4 +330,3 @@ Table 1: Parameters
 %\IEEEpeerreviewmaketitle
 
 \end{document}
-
