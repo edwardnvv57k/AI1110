@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  15 MAY 2023 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  16 MAY 2023 13:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1415,7 +1415,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--314
  []
 
 (./tables/a1table.tex
-Overfull \hbox (20.25519pt too wide) in paragraph at lines 6--15
+Overfull \hbox (19.83626pt too wide) in paragraph at lines 6--12
 [][] 
  []
 
@@ -1431,7 +1431,7 @@ Package rerunfilecheck Info: File `A1_CS22BTECH11020.out' has not changed.
 Here is how much of TeX's memory you used:
  29938 strings out of 476025
  602206 string characters out of 5780034
- 1888388 words of memory out of 5000000
+ 1886388 words of memory out of 5000000
  49740 multiletter control sequences out of 15000+600000
  579668 words of font info for 171 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -1446,7 +1446,7 @@ xlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew
 pt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on A1_CS22BTECH11020.pdf (1 page, 55766 bytes).
+Output written on A1_CS22BTECH11020.pdf (1 page, 55355 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
