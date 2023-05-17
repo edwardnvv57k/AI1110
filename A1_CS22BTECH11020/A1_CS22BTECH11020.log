@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  16 MAY 2023 13:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  17 MAY 2023 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1409,19 +1409,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
-
- []
-
-(./tables/a1table.tex
-Overfull \hbox (19.83626pt too wide) in paragraph at lines 6--12
-[][] 
- []
-
-) [1{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/map/pdftex/up
-dmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/e
-nc/dvips/base/8r.enc}
+(./tables/a1table.tex) [1{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dis
+t/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313/sha
+re/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 ] (./A1_CS22BTECH11020.aux)
@@ -1429,27 +1419,28 @@ Package rerunfilecheck Info: File `A1_CS22BTECH11020.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29938 strings out of 476025
- 602206 string characters out of 5780034
+ 29947 strings out of 476025
+ 602277 string characters out of 5780034
  1886388 words of memory out of 5000000
- 49740 multiletter control sequences out of 15000+600000
- 579668 words of font info for 171 fonts, out of 8000000 for 9000
+ 49744 multiletter control sequences out of 15000+600000
+ 582038 words of font info for 175 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  101i,17n,96p,1185b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/tx
 fonts/rtxmi.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/t
 ype1/public/txfonts/rtxr.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf
--dist/fonts/type1/public/txfonts/txex.pfb></opt/homebrew/Cellar/texlive/2023031
-3/share/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></opt/homebrew/Cellar/te
-xlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew
-/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></o
-pt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/
-times/utmri8a.pfb>
-Output written on A1_CS22BTECH11020.pdf (1 page, 55355 bytes).
+-dist/fonts/type1/public/txfonts/rtxsc.pfb></opt/homebrew/Cellar/texlive/202303
+13/share/texmf-dist/fonts/type1/public/txfonts/txex.pfb></opt/homebrew/Cellar/t
+exlive/20230313/share/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></opt/home
+brew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+</opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/u
+tmbi8a.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/
+urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on A1_CS22BTECH11020.pdf (1 page, 58959 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
